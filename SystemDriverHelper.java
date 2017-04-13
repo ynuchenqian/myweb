@@ -44,6 +44,6 @@ public class SystemDriverHelper {
     public static void main(String[] args){
         String soName=System.getProperty("os.name");
         String osBit = System.getProperty("os.arch");
-        System.out.println(soName+"-"+osBit);
+        System.out.println(soName+"-"+osBit);   //输出结果：Linux-amd64   
     }
 }
