@@ -1,0 +1,3 @@
+使用curl模拟post请求获取相应：
+
+curl -d "actiontype=SmsSend&id=hahaaInfo&password=GUISwq21111afe@5643&type=c&agency=ebgroup&src=eb&src_no=01140913165801&mobile=13628356426&message=test1&timer=-&countrycode=36" http://112.3.34.13/mobile/smssend/MessageSendDevice.jsp
